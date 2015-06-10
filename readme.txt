@@ -1,0 +1,1 @@
+This project includes files from the JavaScript bootcamp held at Fresno City College in 2015.
